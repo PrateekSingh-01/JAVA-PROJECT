@@ -1,0 +1,30 @@
+2025-11-03 22:42:21|prateek2314@gmail.com|pushkar0240@gmail.com|Java Project|Dear Pushkar,
+
+I am submitting my Java project titled “Email Application” developed as part of my Object-Oriented Programming (OOPs) coursework. This project demonstrates the implementation of core OOP principles such as encapsulation, inheritance, polymorphism, and abstraction in Java.
+
+The application allows users to create and manage email accounts, generate secure passwords automatically, and organize user details efficiently using class-based structures. It highlights practical usage of Java classes, constructors, access modifiers, and string handling to build a functional and modular system.
+
+Below are my project details:
+Name: Prateek Singh
+Department: Computer Science and Engineering (AI-B)
+Institute: Noida Institute of Engineering and Technology, Greater Noida
+University: Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
+Skills: Java, Python, DSA, Machine Learning, OOPs Concepts
+
+Kindly find the attached project files and report for your review.
+
+Best regards,
+Prateek Singh
+B.Tech – CSE (AI-B)
+Noida Institute of Engineering and Technology
+0241csai327@niet.co.in|Sent
+2025-11-03 22:50:19|lucky991325@gmail.com|pushkar0240@gmail.com|Java Project|Dear Pushkar,
+
+I hope this message finds you well.
+
+I am writing to follow up on our recent discussion regarding the upcoming project timeline. Please find attached the updated schedule and deliverables for your review.
+
+Let me know if you have any questions or suggestions.
+
+Best regards,  
+Prateek Singh|Sent
